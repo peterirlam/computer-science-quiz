@@ -1,3 +1,53 @@
+# 💻 &nbsp; React Computer Science Quiz
+
+# 📖 &nbsp; Description 
+
+I built this app using [Styled Components](https://styled-components.com/) and [TypeScript](https://www.typescriptlang.org/) and
+used the Google font Audio Wide to give a retro gaming look and feel.
+
+The app makes an API call to [Open Trivia Database] (https://opentdb.com/) which provides a completey free JSON API for programming 
+projects.
+
+## 🔗 &nbsp; Demo
+
+Live view by clicking the badge (use Ctrl/Cmd + Shift to open a new window): [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://coding-trivia.netlify.app/)
+
+You can also clone the project and open it in localhost (See Prerequisites below),
+or enjoy the preview video instead :smile:
+
+## 🛠 &nbsp; Technologies & Libraries
+
+- [x] HTML
+- [x] CSS
+- [x] TypeScript
+- [X] React
+- [x] Styled Components
+
+## 🎱 &nbsp; Why I Chose This Project
+
+I wanted to showcase my ability in using Styled Components and TypeScript together with React
+
+## 🏗️ &nbsp; Why I Built the Project Using Styled Components
+
+Styled-components is a great library for styling. It uses scoped classes, allows a seamless integration with JS and helps to maintain
+the component-driven architecture that React already enforces.
+
+## 📦 &nbsp; Prerequisites
+
+Before cloning/forking this project, make sure you have the following tools installed:
+
+- [Git](https://git-scm.com/downloads)
+- [NodeJS](https://nodejs.org/en/download/)
+
+## ⚙️ &nbsp; Installation
+
+1. Fork the project
+2. Clone the project
+3. Follow the instructions in the console:
+4. Navigate to the project directory cd directory-name
+5. Install the dependencies npm install
+6. Run the project npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
