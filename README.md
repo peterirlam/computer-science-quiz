@@ -5,7 +5,7 @@
 I built this app using [Styled Components](https://styled-components.com/) and [TypeScript](https://www.typescriptlang.org/) and
 used the Google font Audio Wide to give a retro gaming look and feel.
 
-The app makes an API call to [Open Trivia Database] (https://opentdb.com/) which provides a completey free JSON API for programming 
+The app makes an API call to [Open Trivia Database](https://opentdb.com/) which provides a completey free JSON API for programming 
 projects.
 
 ## 🔗 &nbsp; Demo
