@@ -24,7 +24,7 @@ You can also clone the project and open it in localhost (See Prerequisites below
 
 ## 🎱 &nbsp; Why I Chose This Project
 
-I wanted to showcase my ability in using Styled Components and TypeScript together with React
+I wanted to gain a greater understanding of Styled Components and TypeScript together with React
 
 ## 🏗️ &nbsp; Why I Built the Project Using Styled Components
 
